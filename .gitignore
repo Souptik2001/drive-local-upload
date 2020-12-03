@@ -1,2 +1,2 @@
-.env
-automatic_uploader_drive.py
+.*
+uploaded/
